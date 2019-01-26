@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidLabs</string>
+    <string name="hello_message">Hello World!</string>
+    <string name="ButtonText">Button</string>
+    <string name="my_widgets">Here are my widgets:</string>
+    <string name="my_check">Check this out!</string>
+    <string name="my_switch">Switch on / off</string>
+    <string name="my_type">Type your answer here</string>
+    <string name="prompt_email">Enter your email address:</string>
+    <string name="type_email">Type email here</string>
+    <string name="prompt_password">Type your password:</string>
+    <string name="button_login">LOGIN</string>
+</resources>

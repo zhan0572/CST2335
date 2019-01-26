@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">安卓实验</string>
+    <string name="hello_message">你好！</string>
+    <string name="ButtonText">我是一个按钮</string>
+    <string name="my_widgets">这是我的国旗</string>
+    <string name="my_check">点这个！</string>
+    <string name="my_switch">开关 开 / 关</string>
+    <string name="my_type">在这输入</string>
+    <string name="prompt_email">输入你的邮箱：</string>
+    <string name="type_email">在这输入邮箱</string>
+    <string name="prompt_password">输入密码</string>
+    <string name="button_login">登陆</string>
+</resources>
